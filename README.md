@@ -11,8 +11,15 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
-# Pose2Sim
+---
 
+# Pose2Sim (Archived Fork / PR #130 Edition)
+
+> **Note:** This is a **forked and archived version** containing the branch from **PR #130** that I contributed in 2024.  
+> I am *not* the original maintainer of the project.  
+> The **official upstream** repository is [perfanalytics/pose2sim](https://github.com/perfanalytics/pose2sim).
+
+---
 
 ##### N.B:. Please set undistort_points and handle_LR_swap to false for now since it currently leads to inaccuracies. I'll try to fix it soon.
 
